@@ -1,0 +1,4 @@
+o~~0~~1~~o~~Server
+p~~1~~1~~p~~Server
+p~~2~~2~~p~~Server
+m~~3~~3~~m~~Server
